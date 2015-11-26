@@ -1,0 +1,12 @@
+{
+	"content": [{
+		"url": "https://www.youtube.com/watch?v=sEFJZwCcqPI",
+		"autoplay": true
+	},{
+		"url": "https://www.youtube.com/watch?v=sEFJZwCcqPI",
+		"autoplay": true,
+		"controls" : {
+			"components" : ["totalTime", "slider", "currentTime", "fullscreen"]
+		}
+	}]
+}
